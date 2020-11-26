@@ -3,7 +3,7 @@
 
 ![Badge](https://img.shields.io/github/last-commit/JoannaTanveer/Fitness-log?style=plastic) ![Badge](https://img.shields.io/github/repo-size/JoannaTanveer/Fitness-log?style=plastic)
 
-![image relative path](screenshot_employee.png)
+![image relative path](screenshot_fitness.png)
 
 As an avid fitness buff, I want to be able to view, create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled. This app does all that!
        
@@ -38,13 +38,13 @@ The purpose of this program is to solve the problem of keeping track of your wor
 The Dev community prides itself in the open source culture that it celebrates and maintains. This application couldn't have been made possible without the help of
 - Anthony Zachry for his undefined. [Anthony Zachry](https://www.linkedin.com/in/anthony-zachry-3464b551/)
 - Chris Zarlengo for his undefined. [Chris Zarlengo](https://www.linkedin.com/in/zarlengo/)
-- console.table for it's undefined. [console.table](n/a)
+
     
 #### Thank You!
     
     
 ### License
-Licensed under the MIT license. ![link](https://img.shields.io/github/license/JoannaTanveer/Employee_Manger?style=plastic)
+Licensed under the MIT license. ![link](https://img.shields.io/github/license/JoannaTanveer/Fitness-Log?style=plastic)
 
 ### Questions
 All questions and comments are welcome! Please contact me at joanna.tanveer@gmail.com	 or visit my [Github Profile](https://github.com/JoannaTanveer).
